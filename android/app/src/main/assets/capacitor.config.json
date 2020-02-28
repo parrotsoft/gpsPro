@@ -1,0 +1,8 @@
+{
+  "appId": "com.parrotsoft.com",
+  "appName": "gpsPro",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
