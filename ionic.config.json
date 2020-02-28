@@ -1,5 +1,7 @@
 {
   "name": "gpsPro",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

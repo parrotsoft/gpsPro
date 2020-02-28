@@ -1,5 +1,5 @@
 {
-  "appId": "com.parrotsoft.com",
+  "appId": "io.ionic.starter",
   "appName": "gpsPro",
   "bundledWebRuntime": false,
   "npmClient": "npm",
