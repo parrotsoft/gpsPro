@@ -9,7 +9,7 @@ export class GpsProService {
   endPoint: string;
 
   constructor(private http: HttpClient) {
-    this.endPoint = 'http://7e2c3d2c.ngrok.io';
+    this.endPoint = 'https://backgpspro.herokuapp.com/';
   }
 
   sendLocation(data: any) {
